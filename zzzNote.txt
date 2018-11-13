@@ -1,0 +1,49 @@
+提交文件：
+1. 项目文档
+2. 数据分析报告
+3. 项目演示视频
+4. 源码
+
+待办事项：
+1. 整理项目，分配工作
+1. 分析获取与整理car_info.exls中的车辆数据
+2. 分析expances.exls中的数据（研究与分析从而获取结论）
+4. 训练机器学习模型
+5. 制作机器学习演示平台软件（网页？ PC？）
+3. 制作报告（数据可视化） - 使用matlablib和seaborn绘图即可
+4. 制作演示视频
+5. 写项目文档
+
+当前工作内容：
+孙川：4-训练机器学习模型
+刘梓阳：
+
+注意事项：
+所有人只能更改自己负责的代码，可以查阅别人的代码但不能更改
+Git上传时不能上传所有以checkpoint结尾的文件，否则会导致其他人的文件无法打开
+
+数据分析一般过程：
+Queston  -        Wrangle         -        Explore         - Draw Conclusions - Commnicate
+提出需求 - 数据获取与整理（清洗） - 数据挖掘（研究与分析） -      得出结论    -  分析报告
+
+剩余天数： 11 天
+
+Git操作指南：http://www.runoob.com/git/git-tutorial.html
+git add .
+用于将改变的文件添加到git暂存区，. 表示所有文件
+git status
+了解git暂存区状态
+git commit -m 'message'
+用于将暂存区的文件保存到本地仓库，massage为备战信息
+git push
+用于将本地仓库推送到远程仓库
+git pull
+将远程仓库同步到本地
+git clone 'url'
+用于第一次克隆, url为要克隆的仓库地址
+git branch branchname
+用于创建分支
+git checkout branchname
+用于切换分支
+git merge
+合并分支
