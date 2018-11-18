@@ -26,7 +26,7 @@ Git上传时不能上传所有以checkpoint结尾的文件，否则会导致其�
 Queston  -        Wrangle         -        Explore         - Draw Conclusions - Commnicate
 提出需求 - 数据获取与整理（清洗） - 数据挖掘（研究与分析） -      得出结论    -  分析报告
 
-剩余天数： 9 天
+剩余天数： 8 天
 
 Git操作指南：http://www.runoob.com/git/git-tutorial.html
 git add .
